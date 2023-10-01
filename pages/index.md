@@ -15,7 +15,7 @@ lang: "zh-Hans"
 
 ## 个人主页
 
-1. Github [[DOI]](https://gbcpp.github.io)
+1. Github [[DOI]](https://learning-notes)
 2. CSDN [[DOI]](https://blog.csdn.net/m0_59561186?spm=1010.2135.3001.5343)
 
 
