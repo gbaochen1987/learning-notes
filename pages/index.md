@@ -11,13 +11,14 @@ lang: "zh-Hans"
 
 ## 关于我
 
-&emsp;&emsp;我是一名来自xx大学的博士生。。。。。。
+&emsp;&emsp;我是一个从业流媒体开发十几年的软件工程师。
 
-## 论文发表
+## 个人主页
 
-1. 论文1 [[DOI]](https://doi.org)
-2. 论文2 [[DOI]](https://doi.org)
+1. Github [[DOI]](https://gbcpp.github.io)
+2. CSDN [[DOI]](https://blog.csdn.net/m0_59561186?spm=1010.2135.3001.5343)
+
 
 ## 联系我
 
-邮箱：zhonger[at]live.cn (请使用@替换[at])
+邮箱：gbaochen1987@163.com
